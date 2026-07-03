@@ -1,0 +1,47 @@
+{
+  "name": "cleanconnect-website",
+  "version": "1.0.0",
+  "description": "Premium enterprise-grade website for Charvigne CleanConnect",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "typescript": "^5.2.2",
+    "tailwindcss": "^3.3.5",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "framer-motion": "^10.16.4",
+    "axios": "^1.5.0",
+    "react-hook-form": "^7.47.0",
+    "zod": "^3.22.4",
+    "@hookform/resolvers": "^3.3.2",
+    "react-toastify": "^9.1.3",
+    "lucide-react": "^0.294.0",
+    "swiper": "^10.0.1",
+    "react-swiper": "^0.1.11",
+    "next-seo": "^6.1.0",
+    "next-sitemap": "^4.1.3",
+    "nodemailer": "^6.9.6",
+    "resend": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
+    "@types/node": "^20.8.9",
+    "@types/nodemailer": "^6.4.14",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
