@@ -26,7 +26,6 @@
     "react-toastify": "^9.1.3",
     "lucide-react": "^0.294.0",
     "swiper": "^10.0.1",
-    "react-swiper": "^0.1.11",
     "next-seo": "^6.1.0",
     "next-sitemap": "^4.1.3",
     "nodemailer": "^6.9.6",
